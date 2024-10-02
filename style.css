@@ -1,0 +1,9 @@
+body{
+    background-color: black;
+}
+h1{
+    text-align: center;
+    color: aliceblue;
+    font-family: 'Courier New', Courier, monospace;
+    align-items: center;
+}
